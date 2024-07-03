@@ -5,3 +5,4 @@ This is a static webiste developed by @koussay0 to promote tousrim in Medenine R
 HTML5 / CSS3
 Deployment by Netlify
 
+All rights reserved to @koussay0
